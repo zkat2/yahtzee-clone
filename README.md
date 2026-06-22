@@ -7,7 +7,7 @@ previews, a running scoreboard across all players, upper-section and
 bonus-Yahtzee scoring, and a JUnit 5 test suite covering the scoring
 engine and game rules.
 
-![Yahtzee gameplay](docs\Screenshot 2026-06-22 172435.png)
+![Yahtzee gameplay](docs/Screenshot 2026-06-22 172435.png)
 
 ## How the game works
 
